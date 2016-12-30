@@ -1,2 +1,1 @@
-# SideEffect
-Small Keylogger
+### Use it for educational purposes only
